@@ -1,4 +1,8 @@
-# Hero.tsx Video and Overlay Fix TODO
+# CNC Website Cleanup and Push - Progress
 
-# Hero.tsx Video and Overlay Fix - COMPLETE ✅\n\n- [x] Create TODO.md with steps\n- [x] Replace video block in src/sections/Hero.tsx\n- [x] Replace overlay div in src/sections/Hero.tsx\n- [x] Verify changes and complete task
-
+- [x] Create TODO.md with cleanup steps
+- [x] Delete 4 redundant README.md files from src/assets/images/*/
+- [x] Edit src/pages/Contact.tsx to remove console.log
+- [x] Test: npm run build
+- [x] Test: npm run dev (verify all pages)
+- [x] Git commit and push to origin/main

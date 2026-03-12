@@ -1,5 +1,3 @@
-import { LucideIcon } from 'lucide-react';
-
 import { Plane, Heart, Shield, Car, Bot, Zap, Settings } from 'lucide-react';
 
 export interface Industry {
@@ -59,4 +57,3 @@ export const industries: Industry[] = [
     image: '/assets/images/industries/automation.jpg',
   },
 ];
-

@@ -1,8 +1,9 @@
 import { motion } from 'framer-motion';
-import { Plane, Heart, Shield, Car, Bot } from 'lucide-react';
+
 import { TiltCard } from '@/components/TiltCard';
 
-import type { Industry } from '@/data/industries';
+
+/* import type { Industry } from '@/data/industries'; */
 import { industries } from '@/data/industries';
 
 export function HomeIndustries() {
