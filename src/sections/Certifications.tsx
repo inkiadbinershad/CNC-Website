@@ -1,7 +1,8 @@
 import { motion } from 'framer-motion';
 import { Award } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import type { Certification } from '@/data/certifications';
+
+
 import { certifications } from '@/data/certifications';
 
 export function Certifications() {

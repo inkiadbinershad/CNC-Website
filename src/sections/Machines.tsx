@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { Badge } from '@/components/ui/badge';
-import type { Machine } from '@/data/machines';
+
+/* import type { Machine } from '@/data/machines'; */
 import { machines } from '@/data/machines';
 
 export function Machines() {
